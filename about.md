@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: About us
 permalink: /about/
 ---
 
-This is a blog for all projects being made at [Technovium Unlimited](https://technoviumunlimited.nl/).
+Welcome to [Technovium Unlimited](https://technoviumunlimited.nl/), the platform where we showcase the school projects completed by our interns at Technovium. Our website is dedicated to highlighting the diverse range of projects completed by our talented interns, spanning a wide variety of subjects and fields.
 
-You can find the source code for these projects at:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+At [Technovium Unlimited](https://technoviumunlimited.nl/), we believe in providing our interns with a platform to showcase their skills, talents, and achievements. We upload their projects on our website to help them reach a wider audience and gain recognition for their hard work and dedication.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Our website is designed to make it easy for visitors to browse through our interns' projects. You can explore the various projects by clicking on the project links on our website. Whether you're an employer looking to hire talented interns or an educator searching for examples to share with your class, [Technovium Unlimited](https://technoviumunlimited.nl/) has got you covered.
+
+We invite you to explore our website and discover the exceptional projects created by our talented interns. If you have any questions or feedback, please feel free to reach out to us. Thank you for visiting [Technovium Unlimited](https://technoviumunlimited.nl/)!
 
 
 [jekyll-organization]: https://github.com/jekyll
