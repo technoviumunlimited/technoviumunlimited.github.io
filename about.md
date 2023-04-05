@@ -11,6 +11,3 @@ At [Technovium Unlimited](https://technoviumunlimited.nl/), we believe in provid
 Our website is designed to make it easy for visitors to browse through our interns' projects. You can explore the various projects by clicking on the project links on our website. Whether you're an employer looking to hire talented interns or an educator searching for examples to share with your class, [Technovium Unlimited](https://technoviumunlimited.nl/) has got you covered.
 
 We invite you to explore our website and discover the exceptional projects created by our talented interns. If you have any questions or feedback, please feel free to reach out to us. Thank you for visiting [Technovium Unlimited](https://technoviumunlimited.nl/)!
-
-
-[jekyll-organization]: https://github.com/jekyll
