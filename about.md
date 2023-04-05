@@ -4,10 +4,10 @@ title: About us
 permalink: /about/
 ---
 
-Welcome to [Technovium Unlimited](https://technoviumunlimited.nl/), the platform where we showcase the school projects completed by our interns at Technovium. Our website is dedicated to highlighting the diverse range of projects completed by our talented interns, spanning a wide variety of subjects and fields.
+Welkom bij [Technovium Unlimited](https://technoviumunlimited.nl/), het platform waar we de schoolprojecten presenteren die door onze stagiairs bij Technovium zijn afgerond. Onze website is gewijd aan het benadrukken van het diverse scala aan projecten die door onze getalenteerde stagiairs zijn afgerond, variërend over een breed scala aan onderwerpen en vakgebieden.
 
-At [Technovium Unlimited](https://technoviumunlimited.nl/), we believe in providing our interns with a platform to showcase their skills, talents, and achievements. We upload their projects on our website to help them reach a wider audience and gain recognition for their hard work and dedication.
+Bij [Technovium Unlimited](https://technoviumunlimited.nl/) geloven we in het bieden van een platform aan onze stagiairs om hun vaardigheden, talenten en prestaties te laten zien. We plaatsen hun projecten op onze website om hen te helpen een breder publiek te bereiken en erkenning te krijgen voor hun harde werk en toewijding.
 
-Our website is designed to make it easy for visitors to browse through our interns' projects. You can explore the various projects by clicking on the project links on our website. Whether you're an employer looking to hire talented interns or an educator searching for examples to share with your class, [Technovium Unlimited](https://technoviumunlimited.nl/) has got you covered.
+Onze website is ontworpen om het gemakkelijk te maken voor bezoekers om door de projecten van onze stagiairs te bladeren. U kunt de verschillende projecten verkennen door op de projectlinks op onze website te klikken. Of u nu een werkgever bent die op zoek is naar getalenteerde stagiairs of een docent die op zoek is naar voorbeelden om te delen met uw klas, [Technovium Unlimited](https://technoviumunlimited.nl/) heeft u gedekt.
 
-We invite you to explore our website and discover the exceptional projects created by our talented interns. If you have any questions or feedback, please feel free to reach out to us. Thank you for visiting [Technovium Unlimited](https://technoviumunlimited.nl/)!
+We nodigen u uit om onze website te verkennen en de uitzonderlijke projecten te ontdekken die door onze getalenteerde stagiairs zijn gecreëerd. Als u vragen of feedback heeft, neem dan gerust contact met ons op. Bedankt voor uw bezoek aan [Technovium Unlimited](https://technoviumunlimited.nl/)!
