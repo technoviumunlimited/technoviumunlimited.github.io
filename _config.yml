@@ -20,7 +20,7 @@ email: >-
 description: >- # this means to ignore newlines until "baseurl:"
  Welkom bij Technovium Unlimited, jouw plek om verschillende fantastische schoolprojecten te ontdekken die zijn gemaakt door studenten van Technovium.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://static.technoviumunlimited.nl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  technoviumunlimited
 
