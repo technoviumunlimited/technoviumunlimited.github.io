@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /watistechnoviumunlimited
+permalink: /wat-is-technovium-unlimited
 ---
 
 ## Wat is Technovium Unlimited
