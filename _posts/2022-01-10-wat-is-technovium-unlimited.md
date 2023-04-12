@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /droneborrel/start
+permalink: /watistechnoviumunlimited
 ---
 
 ## Wat is Technovium Unlimited
