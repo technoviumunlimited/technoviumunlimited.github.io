@@ -5,7 +5,7 @@ title: 3D modellering
 ---
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
 <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
-<model-viewer style="float:right;width:25%;" alt="radom house" src="/assets/post/3d-model/bambo_House.glb" ar environment-image="" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+<model-viewer style="float:right;width:25%;" alt="radom house" src="/assets/post/3d-model/bambo_House.glb" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
 
 De modellen die nu terug te vinden zijn in de digitale wereld zijn gemaakt met verschillende programma’s. De voornaamste zijn Revit en de ingebouwde modelleer mogelijkheden binnen Unity.
 
