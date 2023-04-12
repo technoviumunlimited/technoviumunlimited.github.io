@@ -19,4 +19,4 @@ Mogelijk heb je zelf ook interesse gekregen om mee te doen. Mocht dat zo zijn, s
 
 Veel plezier op je ontdekkingsreis!
 
-Bas & Davor
+<a href="mailto:b.dewildt@roc-nijmegen.nl" target=_blank>Bas</a> & <a href="mailto:d.radic@roc-nijmegen.nl" target=_blank>Davor</a>

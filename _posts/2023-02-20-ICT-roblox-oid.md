@@ -19,8 +19,7 @@ Niet voor één gat te vangen, is een aantal studenten aan de slag gegaan met ee
   <a target="_blank" href="img_forest.jpg">
     <img src="/assets/post/ict-roblox/Picture2.png" alt="Forest" width="600" height="400">
   </a>
-  <div class="desc">Maze Game
-Door: Assad Mustafa
+  <div class="desc">Maze Game Door: Assad Mustafa
 </div>
 </div>
 
@@ -28,8 +27,7 @@ Door: Assad Mustafa
   <a target="_blank" href="img_lights.jpg">
     <img src="/assets/post/ict-roblox/Picture3.png" alt="Northern Lights" width="600" height="400">
   </a>
-  <div class="desc">Race Game
-Door: Tilo Wijkniet
+  <div class="desc">Race Game Door: Tilo Wijkniet
 </div>
 </div>
 
@@ -37,8 +35,7 @@ Door: Tilo Wijkniet
   <a target="_blank" href="img_mountains.jpg">
     <img src="/assets/post/ict-roblox/Picture4.png" alt="Mountains" width="600" height="400">
   </a>
-  <div class="desc">Robot programming
-Door: Tilo Wijkniet
+  <div class="desc">Robot programming Door: Tilo Wijkniet
 </div>
 </div>
 
@@ -46,8 +43,7 @@ Door: Tilo Wijkniet
   <a target="_blank" href="img_mountains.jpg">
     <img src="/assets/post/ict-roblox/Picture5.png" alt="Mountains" width="600" height="400">
   </a>
-  <div class="desc">Digitaal Technovium
-Door: Tilo Wijkniet
+  <div class="desc">Digitaal Technovium Door: Tilo Wijkniet
 </div>
 </div>
 

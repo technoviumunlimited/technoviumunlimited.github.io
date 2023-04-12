@@ -16,3 +16,4 @@ Haar ontwerpproces heeft ze beschreven in een pdf bestand. Klik op het onderstaa
 <a href="https://linkjehierendaar.com/" target="_blank">
 <img src="/assets/mainimages/logo21-nobg.png">
 </a>
+<!-- <embed src="/assets/post/mediavormgeving/ontwerpproceslogo.pdf" width="800px" height="2100px" /> -->
