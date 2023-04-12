@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Media en Vormgeving logo
-permalink: /droomborrel/media-en-voormgeving-logo
+permalink: /droomborrel/media-en-vormgeving-logo
 ---
 
 In eerste instantie hebben we aan Joost Welbers (docent Media Vormgeving) gevraagd om een logo te ontwerp.
@@ -14,5 +14,5 @@ Het logo dat je nu bovenaan de pagina ziet, is ontworpen door Izza Lena Zahir (s
 Haar ontwerpproces heeft ze beschreven in een pdf bestand. Klik op het onderstaande plaatje om de pdf te downloaden.
 <br>
 <a href="https://linkjehierendaar.com/" target="_blank">
-<img src="/assets/images/logo21-nobg.png">
+<img src="/assets/mainimages/logo21-nobg.png">
 </a>
