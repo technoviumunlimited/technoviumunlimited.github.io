@@ -8,11 +8,14 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  <!-- 3d model support -->
+  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
+  <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
 
   <!-- highlight.js support -->
   <link rel="stylesheet" href="/js/highlightjs/styles/github.css">
   <link rel="stylesheet" href="/js/highlightjs/styles/ssms.css" />
-
+  
   <script type="text/javascript" src="/js/highlightjs/highlight.min.js"></script>
 
   <script type="text/javascript" src="/js/highlightjs/languages/plaintext.min.js"></script>
