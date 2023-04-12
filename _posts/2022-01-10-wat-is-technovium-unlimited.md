@@ -1,3 +1,8 @@
+---
+layout: post
+permalink: /droneborrel/start
+---
+
 ## Wat is Technovium Unlimited
 
 ### Gerelateerde opleiding: allemaal
