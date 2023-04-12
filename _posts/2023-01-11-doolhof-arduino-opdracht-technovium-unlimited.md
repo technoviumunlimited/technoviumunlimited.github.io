@@ -1,3 +1,8 @@
+---
+layout: post
+---
+
+
 De opdracht is om een mechanische doolhof te bouwen met behulp van een Arduino-microcontroller. Het doel is om een doolhof te bouwen waar een robot doorheen kan navigeren met behulp van sensoren en servomotoren.
 
 Het eerste dat je zal moeten doen is de hardware en software ontwerpen. U moet een Arduino-microcontroller kiezen, aansluiten op de juiste sensoren en servomotoren en schrijven van programmacode om de sensoren en servomotoren te besturen.
