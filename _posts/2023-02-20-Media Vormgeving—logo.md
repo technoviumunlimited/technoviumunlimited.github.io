@@ -12,8 +12,4 @@ Doel is om ieder jaar een nieuw logo te laten ontwerpen, het liefst via een jaar
 Het logo dat je nu bovenaan de pagina ziet, is ontworpen door Izza Lena Zahir (student Media Vormgeving).
 
 Haar ontwerpproces heeft ze beschreven in een pdf bestand. Klik op het onderstaande plaatje om de pdf te downloaden.
-<br>
-<a href="https://linkjehierendaar.com/" target="_blank">
-<img src="/assets/mainimages/logo21-nobg.png">
-</a>
-<!-- <embed src="/assets/post/mediavormgeving/ontwerpproceslogo.pdf" width="800px" height="2100px" /> -->
+<embed src="/assets/post/mediavormgeving/ontwerpproceslogo.pdf" width="800px" height="2100px" />
