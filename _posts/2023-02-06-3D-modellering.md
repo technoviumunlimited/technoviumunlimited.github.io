@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /droomborrel/3D-Model
+permalink: /droomborrel/3dmodel
 title: 3D modellering
 ---
 

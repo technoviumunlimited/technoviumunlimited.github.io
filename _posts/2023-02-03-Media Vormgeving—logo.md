@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Media en Vormgeving logo
-permalink: /droomborrel/media-en-vormgeving-logo
+permalink: /droomborrel/logo
 ---
 
 In eerste instantie hebben we aan Joost Welbers (docent Media Vormgeving) gevraagd om een logo te ontwerp.

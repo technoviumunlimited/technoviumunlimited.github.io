@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bouwkundige fundering
-permalink: /droomborrel/bouwkundige-fundering
+permalink: /droomborrel/fundering
 ---
 
 Als je hier gekomen bent via de bouwkunde scene sta je nu tussen twee fasen van het bouwproject in.
