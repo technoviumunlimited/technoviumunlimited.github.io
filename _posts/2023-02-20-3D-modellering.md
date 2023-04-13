@@ -3,7 +3,7 @@ layout: post
 permalink: /droomborrel/3D-Model
 title: 3D modellering
 ---
-<model-viewer style="float:right;width:25%;" alt="radom house" src="/assets/post/3d-model/Bambo_House.glb" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+<model-viewer style="float:right;width:25%;" alt="radom house" src="/assets/post/3d-model/Test.glb" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
 
 De modellen die nu terug te vinden zijn in de digitale wereld zijn gemaakt met verschillende programma’s. De voornaamste zijn Revit en de ingebouwde modelleer mogelijkheden binnen Unity.
 
