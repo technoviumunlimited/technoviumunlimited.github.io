@@ -2,6 +2,8 @@
 layout: post
 title: Bouwkundige fundering
 permalink: /droomborrel/fundering
+categories: [Droomborrel]
+tags: [Creatieve technologie, Bouwkunde]
 ---
 
 Als je hier gekomen bent via de bouwkunde scene sta je nu tussen twee fasen van het bouwproject in.

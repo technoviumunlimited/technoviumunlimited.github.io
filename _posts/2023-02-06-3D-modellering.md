@@ -2,6 +2,8 @@
 layout: post
 permalink: /droomborrel/3dmodel
 title: 3D modellering
+categories: [Droomborrel]
+tags: [Bouwkunde, Creatieve technologie]
 ---
 
 De modellen die nu terug te vinden zijn in de digitale wereld zijn gemaakt met verschillende programma’s. De voornaamste zijn Revit en de ingebouwde modelleer mogelijkheden binnen Unity.

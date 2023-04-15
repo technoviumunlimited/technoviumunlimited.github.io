@@ -1,6 +1,9 @@
 ---
 layout: post
+title: Wat is Technovium Unlimited
 permalink: /wat-is-technovium-unlimited
+categories: [technovium-unlimited]
+tags: [Technovium-Unlimited]
 ---
 
 ## Wat is Technovium Unlimited

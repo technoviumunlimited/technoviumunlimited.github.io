@@ -2,6 +2,8 @@
 layout: post
 title: Introductie
 permalink: /droomborrel/introductie
+categories: [Droomborrel]
+tags: [Introductie, Mediavormgeving, Creatieve technologie]
 ---
 
 Op misschien wel de mooiste plek in het Rijk van Nijmegen, ligt Technovium Unlimited. Welkom!

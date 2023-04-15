@@ -2,6 +2,8 @@
 layout: post
 title: Gamification
 permalink: /droomborrel/gamification
+categories: [Droomborrel]
+tags: [Bouwkunde, Creatieve technologie]
 ---
 Voor sommige mensen die een of meerdere van de digitale scenes bezoeken, zal al snel de gedachte opkomen dat het een leuk spelletje is, zonder zich bewust te zijn van de mogelijkheden. Een ander deel (wellicht door eigen ervaring met gamen) zal naar het programma kijken met andere ogen, namelijk de mogelijkheden die het biedt.
 De bouwkunde scene is slechts een voorbeeld van wat er al mogelijk is. De modellen die nu te zien zijn, zijn ter illustratie. Dat geldt eveneens voor de informatie zuilen en borden.

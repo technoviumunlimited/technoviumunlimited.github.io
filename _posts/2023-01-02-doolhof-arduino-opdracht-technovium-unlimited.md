@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Doolhof Arduino
+permalink: /technovium-unlimited/doolhof-arduino
+categories: [technovium-unlimited]
+tags: [Technovium-Unlimited]
 ---
 
 

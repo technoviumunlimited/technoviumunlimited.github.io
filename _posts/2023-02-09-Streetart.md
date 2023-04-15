@@ -2,6 +2,8 @@
 layout: post
 title: Media en Vormgeving Streetart
 permalink: /droomborrel/streetart
+categories: [Droomborrel]
+tags: [Mediavormgeving]
 ---
 
 In de digitale omgeving van het Technovium is een deel van de kozijnen dichtgezet met witte panelen. Dit blanke canvas is vervolgens aangeboden aan Media Vormgeving studenten om voor deze gevel een ontwerp te maken in de vorm van street art.

@@ -2,6 +2,8 @@
 layout: post
 permalink: /droomborrel/arcade
 title: Arcadekast promotie
+categories: [Droomborrel]
+tags: [Creatieve technologie]
 ---
 
 <img src="/assets/post/arcadekast/arcademachine.png" style="float:right;">

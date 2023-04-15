@@ -2,6 +2,8 @@
 layout: post
 title: ICT—roblox o.i.d.
 permalink: /droomborrel/roblox
+categories: [Droomborrel]
+tags: [Creatieve technologie, Mediavormgeving]
 ---
 
 De eerste gedachte was om een volledige digitale wereld te maken van waaruit alle andere scenes te bereiken zijn.

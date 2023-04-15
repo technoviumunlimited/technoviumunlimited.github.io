@@ -2,6 +2,8 @@
 layout: post
 title: Promotie en visualisering digitale excursies
 permalink: /droomborrel/excursies
+categories: [Droomborrel]
+tags: [Bouwkunde]
 ---
 
 In de praktijk blijkt het niet altijd even makkelijk om excursies te regelen naar bouw– of andere projecten. Ten eerste moet er een geschikt project beschikbaar zijn waar men met een groep studenten naar toe op bezoek kan, het moet ook bereikbaar zijn en dan zou het ook nog fijn zijn als het project zich in een fase bevindt waar de studenten ook daadwerkelijk iets kunnen zien.
