@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /droomborrel/arcadekast-promotie
+permalink: /droomborrel/arcade
 title: Arcadekast promotie
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ICT—roblox o.i.d.
-permalink: /droomborrel/ict-roblox
+permalink: /droomborrel/roblox
 ---
 
 De eerste gedachte was om een volledige digitale wereld te maken van waaruit alle andere scenes te bereiken zijn.
