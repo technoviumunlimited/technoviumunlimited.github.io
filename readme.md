@@ -1,4 +1,4 @@
-# Technovium Unlimited
+# [Technovium Unlimited Blog repo](https://static.technoviumunlimited.nl/)
 
 Welcome to [Technovium Unlimited](https://technoviumunlimited.nl/), the platform where we showcase the school projects completed by our students at Technovium. Our website is dedicated to highlighting the diverse range of projects completed by our talented students, spanning a wide variety of subjects and fields.
 
